@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #063970;
+    color: white;
+}
+
+.container{
+    margin: 15% 20%;
+}
+
+.container h1{
+    font-size: 50px;
+}
+
+.container h1 span{
+    color: #6BE553;
+    text-decoration: underline;
+}
+
+.display{
+    margin: 25px 0;
+}
+
+.display input{
+    height: 50px;
+    width: 50%;
+    font-size: 20px;
+}
+
+button{
+    height: 40px;
+    width: 20%;
+    font-size: medium;
+    color: #063970;
+    background-color: #53E584;
+    font-weight: 600;
+}
+
